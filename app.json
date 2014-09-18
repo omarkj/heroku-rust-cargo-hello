@@ -5,6 +5,7 @@
   "success_url": "/",
   "keywords": ["rust", "iron"],
   "website": "http://www.randomhacks.net/2014/09/17/deploying-rust-heroku-iron/",
+  "stack": "cedar-14",
   "env": {
     "BUILDPACK_URL": "https://github.com/emk/heroku-buildpack-rust.git"
   }
